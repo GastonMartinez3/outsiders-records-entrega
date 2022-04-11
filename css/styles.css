@@ -55,6 +55,11 @@ html {
     
 }
 
+/* .podcast {
+    display: flex;
+    flex-direction: column;
+} */
+
 .nav a:hover {
     color: #055778;
     font-size: 125%;
@@ -71,11 +76,6 @@ a:hover {
     -o-transition: all 0.5s 0s ease-out;
     transition: all 0.5s 0s ease-out;   
 }
-
-/* .podcast {
-    display: flex;
-    flex-direction: column;
-} */
 
 .historia {
     font-size: large;

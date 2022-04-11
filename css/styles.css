@@ -55,6 +55,23 @@ html {
     
 }
 
+.nav a:hover {
+    color: #055778;
+    font-size: 125%;
+    -webkit-transition: all 0.5s 0s ease-out;
+    -moz-transition: all 0.5s 0s ease-out;
+    -o-transition: all 0.5s 0s ease-out;
+    transition: all 0.5s 0s ease-out;   
+}
+
+a:hover {
+    color: #055778;
+    -webkit-transition: all 0.5s 0s ease-out;
+    -moz-transition: all 0.5s 0s ease-out;
+    -o-transition: all 0.5s 0s ease-out;
+    transition: all 0.5s 0s ease-out;   
+}
+
 /* .podcast {
     display: flex;
     flex-direction: column;
